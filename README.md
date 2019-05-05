@@ -1,4 +1,4 @@
-# demo-unievrsity
+# demo-university
 
 Wordpress theme
 Trying Wordpress using Local by flywheel
